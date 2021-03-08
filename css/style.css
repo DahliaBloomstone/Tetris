@@ -15,12 +15,12 @@ body {
   font-size: 2rem;
   margin: auto;
   max-width: 60rem;
-  color: #d8edea;
+  color: pink;
   background: radial-gradient(
     circle,
-    rgba(175, 196, 174, 1) 0%,
-    rgba(104, 204, 191, 1) 89%,
-    rgba(94, 191, 178, 1) 100%
+    rgb(132, 218, 146) 0%,
+    rgb(231, 160, 213) 89%,
+    rgb(116, 218, 231) 100%
   );
 }
 
