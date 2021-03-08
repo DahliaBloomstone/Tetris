@@ -12,6 +12,7 @@
 
 body {
   font-family: "Montserrat", sans-serif;
+  background-image: url("https://media.giphy.com/media/TbJ1Mo9bwfJQljCi51/giphy.gif");
   font-size: 2rem;
   margin: auto;
   max-width: 60rem;
@@ -26,7 +27,7 @@ body {
 
 header {
   text-align: center;
-  margin-top: 3rem;
+  margin-top: 5rem;
 }
 
 div {
@@ -131,9 +132,9 @@ div {
   font-size: 10px;
   display: block;
   margin: 30px;
-  text-shadow: -1px -1px 0 #a84155;
-  background: #d25068;
-  border: 1px solid #d25068;
+  text-shadow: -1px -1px 0 #ec08bb;
+  background: #ee08ee;
+  border: 1px solid #0893e4;
   width: 12rem;
   background-image: linear-gradient(to bottom, #f66c7b, #d25068);
   border-radius: 5px;
